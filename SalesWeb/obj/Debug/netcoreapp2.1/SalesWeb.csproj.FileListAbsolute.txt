@@ -84,3 +84,4 @@ D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntime
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
