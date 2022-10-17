@@ -21,7 +21,7 @@ namespace SalesWeb.Data
         {
             if (_context.Department.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
             {
-                return; // OBANCO DE DADOS JA FOI POPULADO
+                return; // O BANCO DE DADOS JA FOI POPULADO
             }
 
 
