@@ -1,0 +1,85 @@
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.deps.json
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.json
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.dev.json
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.dll
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.pdb
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.dll
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.pdb
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfoInputs.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfo.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.input.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.output.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorCoreGenerate.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.Views.pdb
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntimeconfig.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.AssemblyReference.cache
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Aureo Bueno\Desktop\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\appsettings.json
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.deps.json
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.json
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.runtimeconfig.dev.json
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.dll
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.pdb
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.dll
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\bin\Debug\netcoreapp2.1\SalesWeb.Views.pdb
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.AssemblyReference.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfoInputs.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.AssemblyInfo.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CoreCompileInputs.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorAssemblyInfo.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.input.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.TagHelpers.output.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorCoreGenerate.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorTargetAssemblyInfo.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.RazorTargetAssemblyInfo.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.Views.pdb
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.dll
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntimeconfig.cache
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
