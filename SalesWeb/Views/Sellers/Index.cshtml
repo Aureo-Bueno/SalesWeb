@@ -3,10 +3,14 @@
     ViewData["Title"] = "Sellers";
 }
 
-<h1 class="text-center">Vendedores</h1>
+
 
 <main class="row">
-    <div class="col-md-4">
+    <div class="col-md-12">
+        <h1 class="text-center h1">@ViewData["Title"]</h1>
+        <hr class="" />
+    </div>
+    <div class="col-md-12">
         <a asp-action="Create" class="btn btn-default">Create New</a>
     </div>
     <div class="col-md-12">
@@ -29,9 +33,9 @@
                         <td>@Html.DisplayFor(model => item.BirthDate)</td>
                         <td>@Html.DisplayFor(model => item.BaseSalary)</td>
                         <td>
-                            <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-                            <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
-                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                            <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a> 
                         </td>
                     </tr>
                 }
