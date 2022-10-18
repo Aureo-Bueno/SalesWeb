@@ -85,3 +85,6 @@ D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.Cop
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
