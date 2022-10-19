@@ -17,6 +17,11 @@ namespace SalesWeb.Services
             _context = context;
         }
 
+        public async Task<List<SalesRecord>> FindAllAsync()
+        {
+            return await _context.SalesRecord.ToListAsync();
+        }
+
         public async Task<List<SalesRecord>> FindByDateAsync(DateTime? minDate, DateTime? maxDate)
         {
             var result = from obj in _context.SalesRecord select obj;
@@ -31,6 +36,28 @@ namespace SalesWeb.Services
             }
 
             return await result.Include(i => i.Seller).Include(i => i.Seller.Department).OrderByDescending(o => o.Date).ToListAsync();
+        }
+
+        public async Task<List<IGrouping<Department,SalesRecord>>> FindByDateGroupingAsync(DateTime? minDate, DateTime? maxDate)
+        {
+            var result = from obj in _context.SalesRecord select obj;
+            if (minDate.HasValue)
+            {
+                result = result.Where(w => w.Date >= minDate.Value);
+            }
+
+            if (maxDate.HasValue)
+            {
+                result = result.Where(w => w.Date <= maxDate.Value);
+            }
+
+            return await result.Include(i => i.Seller).Include(i => i.Seller.Department).OrderByDescending(o => o.Date).GroupBy(g => g.Seller.Department).ToListAsync();
+        }
+
+        public async Task InsertAsync(SalesRecord salesRecord)
+        {
+            _context.Add(salesRecord);
+            await _context.SaveChangesAsync();
         }
     }
 }

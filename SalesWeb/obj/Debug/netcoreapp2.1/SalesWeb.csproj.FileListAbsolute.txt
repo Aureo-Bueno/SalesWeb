@@ -88,3 +88,4 @@ D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
 D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+D:\SMT\CAPACITACAO\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Create.cshtml.g.cs
